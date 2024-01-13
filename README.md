@@ -1,4 +1,4 @@
-# FivePD-zh-TW
+# FivePDv1.5.2-繁體中文版本
 安裝後只需到config調整admincode即可
 # 已知BUG🆖
 - 部分案件無法受理
