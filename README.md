@@ -1,5 +1,5 @@
 # FivePD-zh-TW
-## 尚未開發完成
+安裝後只需到config調整admincode即可
 # 已知BUG🆖
 - 部分案件無法受理
 - 部分案件Ped會卡住
